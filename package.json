@@ -16,7 +16,6 @@
     "laravel-mix": "^1.0",
     "lodash": "^4.17.4",
     "vue": "^2.1.10",
-
     "bootstrap": "^4.0.0-beta",
     "copy-webpack-plugin": "^4.0.1",
     "font-awesome": "^4.7.0",

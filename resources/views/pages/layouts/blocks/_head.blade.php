@@ -61,12 +61,10 @@
 	<link rel="canonical" href="@yield('CANONICAL_URL', request()->fullUrl())">
 	
 	{{-- Links to the author of the document --}}
-	<link rel="author" href="NovaM3">
+	<link rel="author" href="Scholae">
 	
 	{{-- Gives information about an author or another person --}}
-	<link rel="me" href="http://www.novam3.com/" type="text/html">
-	<link rel="me" href="mailto:web@novam3.com">
-	<link rel="me" href="sms:+558432072700">
+	<link href="https://fonts.googleapis.com/css?family=Lexend+Exa&display=swap" rel="stylesheet">
 
 	<link rel="stylesheet" href="/css/dist/app.css">
 

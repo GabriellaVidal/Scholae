@@ -33,6 +33,6 @@ mix.webpackConfig( {
 
 mix.js('resources/assets/js/app.js', 'public/js/dist')
 	.sass('resources/assets/sass/app.scss', 'public/css/dist')
-    .copy('resources/assets/fonts', 'public/fonts', false)
+    // .copy('resources/assets/fonts', 'public/fonts', false)
 	// .copy('node_modules/@fancyapps/fancybox/dist/jquery.fancybox.min.css', 'public/css/jquery.fancybox.min.css')
 	.copy('node_modules/animate.css/animate.min.css', 'public/css/plugins/animate.css/animate.min.css');
